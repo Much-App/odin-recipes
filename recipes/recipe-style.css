@@ -18,8 +18,7 @@ body {
     margin-right: auto;
 }
 
-h2,
-h3 {
+h2 {
     color: maroon;
     margin-left:15%;
     line-height: 40%;
@@ -35,6 +34,10 @@ p {
     line-height: 100%;
 }
 
-.end {
+
+.home {
+    font-size: 20px;
+    text-align: center;
+    color: blue;
     line-height: 300%;
 }
